@@ -9,6 +9,11 @@
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
     "skipLibCheck": true,
+    "paths": {
+      "ngx-troy-ui": [
+        "./dist/ngx-troy-ui"
+      ]
+    },
     "esModuleInterop": true,
     "sourceMap": true,
     "declaration": false,
